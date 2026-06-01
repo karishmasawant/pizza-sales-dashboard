@@ -1,9 +1,5 @@
 # 🍕 Pizza Sales Dashboard — SQL + Excel Analysis
 
-![Dashboard Preview](PizzaDashYear.png)
-
----
-
 ## 📌 Project Overview
 
 This project presents a **complete end-to-end sales analysis** of a pizza restaurant's data for the year **2015**. Raw transactional data was queried and cleaned using **SQL**, and the final insights were visualized using **Excel (Power BI-style dashboards)**.
@@ -111,29 +107,18 @@ pizza-sales-dashboard/
 
 ---
 
-## 🚀 How to Use This Project
+## 🙌 Feedback & Contribution
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/pizza-sales-dashboard.git
-   ```
-
-2. **Run SQL Queries:**
-   - Open your SQL client (MySQL Workbench, DBeaver, etc.)
-   - Run the `.sql` files from the `SQL Queries/` folder against your database
-
-3. **View the Dashboard:**
-   - Open `PizzaSalesDashboard.xlsx` in Microsoft Excel
-   - Use the date slicer to filter by month, quarter, or year
+**Feedback is welcome!**  
+Feel free to open an issue or share suggestions for improvement.  
+If you found this project useful or inspiring, don't forget to ⭐ star the repo!
 
 ---
 
-## 📬 Contact
+## 📬 Connect with Me
 
-Feel free to connect or reach out:
+Let’s connect and collaborate!
 
-- 🔗 [LinkedIn](www.linkedin.com/in/karishmaasawant)
-
----
+- [LinkedIn – Karishma Sawant](https://www.linkedin.com/in/karishmaasawant)
 
 ⭐ *If you found this project helpful, consider giving it a star!*
