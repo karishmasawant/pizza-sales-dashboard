@@ -1,4 +1,4 @@
-# 🍕 Pizza Sales Dashboard — SQL + Excel Analysis
+# 🍕 Pizza Sales Dashboard (SQL + Excel Analysis)
 
 ## 📌 Project Overview
 
@@ -82,6 +82,14 @@ The goal was to uncover revenue trends, identify best/worst-performing products,
 | ![Excel](https://img.shields.io/badge/Excel-Dashboard-217346?logo=microsoftexcel&logoColor=white) | Data visualization & dashboard creation |
 
 ---
+## 📂 Project Files
+
+| File | Description |
+|------|-------------|
+| `pizza_sales excel file.xlsx` | Main Excel dashboard file |
+| `PizzaDashboard.png` | Screenshot of Overview section |
+| `PizzaDashYear.png` | Screenshot of Yearly Sale |
+| `PizzaDashQ1.png` | Screenshot of 1st Quarter Sale |
 
 ## 📁 Project Structure
 
