@@ -83,16 +83,12 @@ The goal was to uncover revenue trends, identify best/worst-performing products,
 
 ---
 ## 📸 Dashboard Snapshots:
-
 ### 🧭 Overview Dashboard
 ![Overview](./PizzaDashboard.png)
-
 ### 📘 Year 2015 Dashboard
 ![Year 2015](./PizzaDashYear.png)
-
 ### 🧭 First Quarter Dashboard
 ![First Quarter](./PizzaDashQ1.png)
-
 
 ## 📂 Project Files
 
